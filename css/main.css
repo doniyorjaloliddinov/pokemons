@@ -4,6 +4,8 @@ body {
 }
 
 .header-logo {
+    display: block;
+    margin: auto;
     background-color: transparent;
 }
 
@@ -19,6 +21,8 @@ body {
 .site-btn {
     width: 250px;
     height: 45px;
+    margin: auto;
+    display: block;
     font-size: 22px;
     font-weight: bold;
     border-radius: 50px;
