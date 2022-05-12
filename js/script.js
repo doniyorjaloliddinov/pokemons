@@ -21,5 +21,3 @@ elReadyBtn.addEventListener("click", function(evt) {
     }
     elReadyBtn.className = "magic-btn d-none";
 });
-
-
